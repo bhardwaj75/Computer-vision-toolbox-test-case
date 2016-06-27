@@ -1,6 +1,6 @@
 //input
-b=imread('3.jpg');
-a=imread('3.jpg');
+b=imread('lena.jpeg');
+a=imread('lena.jpeg');
 cam1=[200 0 205;0 206 107; 0 0 1];
 cam2=[100 0 305;0 206 107; 0 0 1];
 dis1=[200 300 4 5];
